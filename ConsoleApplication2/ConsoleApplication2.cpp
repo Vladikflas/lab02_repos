@@ -15,6 +15,6 @@ int main() {
 	
 
 	cout << "z1 = " << z1 << " z2 = " << z2 << endl;
-
+	cin.get();
 	return 0;
 }

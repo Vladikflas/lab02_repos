@@ -14,7 +14,7 @@ int main() {
 	z2 = 4 * cos(a / 2) * cos(5. / 2 * a) * cos(4 * a);
 	
 
-	cout << "z1 = " << z1 << " z2 = " << z2 << endl;
+	cout << "z1 = " << z1; // << " z2 = " << z2 << endl;
 	cin.get();
 	return 0;
 }
